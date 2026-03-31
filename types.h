@@ -3,4 +3,5 @@
 
 using T1 = int;
 
+using T_ABS = double;
 #endif // __TYPES_H__
