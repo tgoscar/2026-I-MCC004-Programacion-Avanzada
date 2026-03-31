@@ -20,7 +20,7 @@ double raizCuadrada(double x);
 // 8 Gallo Lugo Carlos enrique <cgallolugo@gmail.com>
 
 // 9 Lopez Flores Royer Amed <roamlofl9@gmail.com>
-
+double valor_absoluto(double x);
 // 10 Miranda Zarate Jorge Luis <mirandazaratejorge@gmail.com>,
 unsigned int factorial(unsigned int number);
 
