@@ -23,7 +23,7 @@ double raizCuadrada(double x);
 // 8 Gallo Lugo Carlos enrique <cgallolugo@gmail.com>
 
 // 9 Lopez Flores Royer Amed <roamlofl9@gmail.com>
-double valor_absoluto(double x);
+T_ABS valor_absoluto(T_ABS x);
 
 // 10 Miranda Zarate Jorge Luis <mirandazaratejorge@gmail.com>,
 U1 factorial(U1 number);

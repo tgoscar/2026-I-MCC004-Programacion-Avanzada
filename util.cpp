@@ -39,7 +39,7 @@ double raizCuadrada(double x) {
 
 // 9 Lopez Flores Royer Amed <roamlofl9@gmail.com>
 // abs
-double valor_absoluto(double x) {
+T_ABS valor_absoluto(T_ABS x) {
     return (x < 0) ? -x : x; 
 }
 // 10 Miranda Zarate Jorge Luis <mirandazaratejorge@gmail.com>,

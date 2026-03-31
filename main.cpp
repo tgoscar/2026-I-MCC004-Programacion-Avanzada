@@ -43,11 +43,11 @@ int main() {
     // 9 Lopez Flores Royer Amed <roamlofl9@gmail.com>
     // Valor absoluto
     cout << endl;
-    double x91 = -3.14;
-    double a91 = valor_absoluto(x91);
+    T_ABS x91 = -3.14;
+    T_ABS a91 = valor_absoluto(x91);
     cout << "Lopez Flores Royer Amed: " << a91 << endl;
-    double x92 = 2.71;
-    double a92 = valor_absoluto(x92);
+    T_ABS x92 = 2.71;
+    T_ABS a92 = valor_absoluto(x92);
     cout << "Lopez Flores Royer Amed: " << a92 << endl;
     cout<<endl;
     // 10 Miranda Zarate Jorge Luis <mirandazaratejorge@gmail.com>,
