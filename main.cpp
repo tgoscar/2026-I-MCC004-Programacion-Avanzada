@@ -2,6 +2,7 @@
 #include "util.h"
 using namespace std;
 
+// Ernesto Cuadros
 // g++ -std=c++17 main.cpp util.cpp -o main
 int main() {
 
@@ -11,19 +12,25 @@ int main() {
     cout << "Ernesto Cuadros-Vargas: " << a0 << endl;
 
     // 1 Alvarez Cadillo, Michell Adrian <<michell.aac.1106@gmail.com>,
-
+    // Resta
+    
     // 2 Bernaola Gayoso César Raúl <bernaolacesar@gmail.com>,
+    // Multiplicar
 
     // 3 Castro Chaupis, Armando Cristhian <armandocristhiancastrochaupis@gmail.com>,
+    // Dividir
 
     // 4 Castro Galindo Carlo André <carlocastrogalindo@gmail.com>,
+    // Potencia
     int base = 2, exponente = 3;
     int a4 = potencia(base, exponente);
     cout << "Castro Galindo Carlo André: " << a4 << endl;
-
+    
     // 5 Diaz Tapia Adderly Orlando <adderly.diaz.tapia@gmail.com>
+    // Raiz cuadrada
 
     // 6 Díaz Vega Greta Solange <gretadiaz01@gmail.com>
+    // Modulo
 
     // 7 DÍAZ VEGA OLENKA HELENE <olenka.diaz.v@uni.pe>
 
