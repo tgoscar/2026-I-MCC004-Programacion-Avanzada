@@ -52,4 +52,6 @@ T16 mult(T16 x, T16 y);
 
 // 21 Selis Vasquez Luis Antonio <luisanonioselisvasquez@gmail.com>
 
+void DemoFunctions();
+
 #endif // __UTIL_H__
